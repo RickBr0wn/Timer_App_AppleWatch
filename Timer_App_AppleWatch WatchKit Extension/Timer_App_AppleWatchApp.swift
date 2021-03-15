@@ -9,11 +9,11 @@ import SwiftUI
 
 @main
 struct Timer_App_AppleWatchApp: App {
-    var body: some Scene {
-        WindowGroup {
-            NavigationView {
-                ContentView()
-            }
-        }
+  var body: some Scene {
+    WindowGroup {
+      NavigationView {
+        ContentView()
+      }
     }
+  }
 }
